@@ -19,8 +19,8 @@ body {
     overflow: auto;
     text-transform: uppercase; /* 모든 텍스트를 대문자로 변환 */
     color: #313131;
-    margin-top: 130px;
-    margin-bottom: 130px;
+    margin-top: 150px;
+    margin-bottom: 150px;
     cursor: url('./work1/finger.png') 8 8, auto;
 }
 
